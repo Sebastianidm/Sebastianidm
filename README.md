@@ -18,7 +18,7 @@ I specialize in a "Technical Trifecta" that allows me to understand the software
 ### 🚀 Skills & Technologies
 
 - **Languages:** Java, Python, JavaScript (ES6+), SQL.
-- **Frameworks & Libraries:** Spring Boot, React, Astro.
+- **Frameworks & Libraries:** Spring Boot, FastAPI.
 - **Cloud & DevOps:** AWS Services, Docker, Git/GitHub.
 - **Currently Learning:** Microservices, Cloud-Native Architectures, and advanced AWS implementations.
 
