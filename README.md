@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sebastián Díaz Miranda 👋
 
-### Desarrollador Backend | Orientado a Arquitecturas Cloud-Native & Microservicios
+### Desarrollador Backend 
 
 Soy un apasionado del desarrollo Backend y la infraestructura en la nube. Actualmente curso Ingeniería en Informática en DUOC UC (Vespertino) y dedico mi tiempo libre a profundizar en patrones de diseño, comunicación eficiente entre servicios y automatización.
 
