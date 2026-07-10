@@ -26,20 +26,14 @@ Un monorepo que simula una plataforma transaccional de arriendo de películas im
 
 | Categoría | Tecnologías |
 |---|---|
-| **Lenguajes & Frameworks** | Java (Spring Boot, Spring Cloud, Hibernate/JPA), Python (FastAPI, PyTest) |
-| **Nube & Infraestructura** | AWS *(Certified Cloud Practitioner)*: EC2, S3, RDS, IAM — Docker, Docker Compose, GitHub Actions |
+| **Lenguajes & Frameworks** | Java (Spring Boot, Spring Cloud, Hibernate/JPA)) |
+| **Nube & Infraestructura** | AWS *(Certified Cloud Practitioner)*: EC2, S3, RDS, IAM — Docker, Docker Compose |
 | **Bases de Datos** | PostgreSQL, MongoDB, SQL |
 | **Calidad & Documentación** | OpenAPI/Swagger, Postman, Flyway, JaCoCo, Maven |
 | **Metodologías** | Scrum / Agile |
 
 ---
 
-## 📈 En qué estoy trabajando actualmente
-
-- Profundizando en patrones arquitectónicos serverless utilizando Python dentro del ecosistema de AWS.
-- Consolidando flujos de integración y despliegue continuo (CI/CD) para automatizar pruebas de código.
-
----
 
 ## 🤝 Conectemos
 
