@@ -20,7 +20,7 @@ Un monorepo que simula una plataforma transaccional de arriendo de películas im
 *   **Calidad:** Cobertura de pruebas unitarias y de integración del 95% verificadas con JaCoCo.
 *   **Infraestructura:** Orquestación y despliegue local simplificado mediante contenedores con Docker Compose.
 
-### 🏥 [MediTurno](https://github.com/Sebastianidm/mediturno) *(Reemplaza con tu URL real)*
+### 🏥 [MediTurno](https://github.com/Sebastianidm/mediturno) 
 
 Sistema backend RESTful diseñado para mitigar la ineficiencia en la asignación de citas médicas, resolviendo problemas críticos de solapamiento de horarios, cancelaciones tardías y falta de trazabilidad mediante un sistema de roles estructurado (Paciente, Médico, Admin).
 
