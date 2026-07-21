@@ -2,7 +2,7 @@
 
 ### Desarrollador Backend 
 
-Soy un apasionado del desarrollo Backend y la infraestructura en la nube. Actualmente curso Ingeniería en Informática en DUOC UC (Vespertino) y dedico mi tiempo libre a profundizar en patrones de diseño, comunicación eficiente entre servicios y automatización.
+Soy un apasionado del desarrollo. Actualmente curso Ingeniería en Informática en DUOC UC (Vespertino) y dedico mi tiempo libre a profundizar en patrones de diseño, comunicación eficiente entre servicios y automatización.
 
 Mi meta técnica es clara: diseñar y desplegar soluciones backend eficientes, desacopladas y listas para producción. Aunque tengo bases en Frontend (React), mi lugar en el ecosistema está del lado del servidor y los datos.
 
