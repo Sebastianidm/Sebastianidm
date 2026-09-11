@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sebastián Díaz Miranda 👋
+# ¡Hola! Soy Sebastián Díaz Miranda 
 
 ### Desarrollador 
 
@@ -8,9 +8,9 @@ Mi meta técnica es clara: diseñar y desplegar soluciones backend eficientes, d
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🎬 [Blockbuster Microservices](https://github.com/Sebastianidm/blockbuster-microservices)
+### [Blockbuster Microservices](https://github.com/Sebastianidm/blockbuster-microservices)
 
 Un monorepo que simula una plataforma transaccional de arriendo de películas implementada con una arquitectura de microservicios reales sobre Spring Boot.
 
@@ -20,7 +20,7 @@ Un monorepo que simula una plataforma transaccional de arriendo de películas im
 *   **Calidad:** Cobertura de pruebas unitarias y de integración del 95% verificadas con JaCoCo.
 *   **Infraestructura:** Orquestación y despliegue local simplificado mediante contenedores con Docker Compose.
 
-### 🏥 [MediTurno](https://github.com/Sebastianidm/mediturno) 
+###  [MediTurno](https://github.com/Sebastianidm/mediturno) 
 
 Sistema backend RESTful diseñado para mitigar la ineficiencia en la asignación de citas médicas, resolviendo problemas críticos de solapamiento de horarios, cancelaciones tardías y falta de trazabilidad mediante un sistema de roles estructurado (Paciente, Médico, Admin).
 
@@ -33,7 +33,7 @@ Sistema backend RESTful diseñado para mitigar la ineficiencia en la asignación
 
 ---
 
-## 🛠️ Mi Caja de Herramientas
+## Mi Caja de Herramientas
 
 | Categoría | Tecnologías |
 |---|---|
@@ -45,10 +45,10 @@ Sistema backend RESTful diseñado para mitigar la ineficiencia en la asignación
 
 ---
 
-## 🤝 Conectemos
+## Conectemos
 
 Si estás buscando un desarrollador backend **Junior o Trainee** con bases sólidas y con un fuerte interés en la cultura DevOps, hablemos:
 
-*   💼 **LinkedIn:** [linkedin.com/in/sebastián-díaz-miranda](https://linkedin.com/in/sebastián-díaz-miranda)
-*   📧 **Correo:** sebastiandiazmiranda@gmail.com
-*   📍 **Ubicación:** Villa Alemana, Valparaíso, Chile 🇨🇱
+*    **LinkedIn:** [linkedin.com/in/sebastián-díaz-miranda](https://linkedin.com/in/sebastián-díaz-miranda)
+*    **Correo:** sebastiandiazmiranda@gmail.com
+*    **Ubicación:** Villa Alemana, Valparaíso, Chile 🇨🇱
